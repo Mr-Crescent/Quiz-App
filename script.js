@@ -1,3 +1,18 @@
-const bgColor = document.querySelector("body")
+const questions = [
+    {
 
-bgColor.style.backgroundColor = "plum"
+    }, 
+    
+    {
+
+    }, 
+    
+    {
+
+
+    }, 
+    
+    {
+
+    }
+]
